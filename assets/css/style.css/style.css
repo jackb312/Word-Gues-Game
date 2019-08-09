@@ -1,0 +1,82 @@
+body {
+    background-image: url(../../images/Seahawks_banner.jpg);
+    border: 10px solid black;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    display: flexbox;
+    background-color: black;
+    color: greenyellow;
+    font-size: 48px;
+    margin: 0 auto;
+    text-align: center;
+    height: 75px;
+    width: 80%;
+}
+
+h2 {
+    display: flexbox;
+    color: greenyellow;
+    font-size: 48px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    width: 25%;
+}
+
+h3 {
+    display: flexbox;
+    color: greenyellow;
+    font-size: 48px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    width: 25%;
+}
+
+.underscores {
+    display: flexbox;
+    background-color: black;
+    color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 100px;
+    width: 50%;
+}
+
+.rightanswer {
+    display: flexbox;
+    background-color: black;
+    color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 50px;
+    width: 25%;
+}
+
+.wronganswer {
+    display: flexbox;
+    background-color: black;
+    color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 50px;
+    width: 25%;
+}
+
+.alphabet {
+    display: flexbox;
+    background-color: black;
+    color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    height: 200px;
+    width: 25%;
+}
